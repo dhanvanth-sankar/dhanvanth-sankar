@@ -35,11 +35,11 @@ Engineered prompt-based jailbreaks against ChatGPT, Claude and Gemini to find wh
 
 ## Embedded & Hardware
 
-**OpenGym Occupancy Telemetry** · CMU Business Technology Group · *Jan 2026 – present* · [live](https://cmuopengym.com)
-ESP32 firmware reading a laser distance-sensor array integrated with servo actuators, feeding a pipeline to AWS and a real-time dashboard deployed in a campus gym. Cut sensor data packet drop from **12% to 3%** during peak traffic by reworking how the I2C/SPI array was multiplexed; the dashboard looked broken, but the failure was in firmware.
-
 **Autonomous Long-Range UAV** · *2024 – 2026*
 7-inch long-range drone built for end-to-end mission testing: GPS navigation, flight telemetry, and a custom flight-controller PCB/PCBA I laid out. Built the hardware–software interfaces for obstacle avoidance and long-distance video, holding **sub-20 ms video latency and reliable telemetry over 25 km** using digital modulation fundamentals and encryption.
+
+**OpenGym Occupancy Telemetry** · CMU Business Technology Group · *Jan 2026 – present* · [live](https://cmuopengym.com)
+ESP32 firmware reading a laser distance-sensor array integrated with servo actuators, feeding a pipeline to AWS and a real-time dashboard deployed in a campus gym. Cut sensor data packet drop from **12% to 3%** during peak traffic by reworking how the I2C/SPI array was multiplexed; the dashboard looked broken, but the failure was in firmware.
 
 **EMG-Controlled Prosthetic Hand** · CMU EDIE Makeathon · *Mar 2026* · **5th of 25 teams**
 A MyoWare muscle sensor into an ESP32 driving five servos, one per finger, on a laser-cut prototype, plus a dashboard for sensor inputs and system performance. Built end to end inside a **12-hour sprint**.
